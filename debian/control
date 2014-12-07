@@ -2,21 +2,22 @@
 ## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
 ## See the file COPYING for copying conditions.
 
-Source: grub-screen-resolution
+Source: grub-output-verbose
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
 Build-Depends: debhelper (>= 8), faketime
-Homepage: https://github.com/Whonix/grub-screen-resolution
-Vcs-Browser: https://github.com/Whonix/grub-screen-resolution
-Vcs-Git: https://github.com/Whonix/grub-screen-resolution.git
+Homepage: https://github.com/Whonix/grub-output-verbose
+Vcs-Browser: https://github.com/Whonix/grub-output-verbose
+Vcs-Git: https://github.com/Whonix/grub-output-verbose.git
 Standards-Version: 3.9.4
 
-Package: grub-screen-resolution
+Package: grub-output-verbose
 Architecture: all
 Depends: ${misc:Depends}
-Description: Sets 1024x768 as boot screen resolution
- Ships a /etc/default/grub.d/screen-resolution.cfg configuration file, that
- injects "vga=0x0317" into the GRUB_CMDLINE_LINUX_DEFAULT variable.
+Description: Enables verbose output during boot
+ Ships a /etc/default/grub.d/30_output_verbose.cfg configuration file, that
+ removes "quiet" from the GRUB_CMDLINE_LINUX_DEFAULT variable.
  .
- For better usability.
+ For better usability, so it doesn't look like boot hangs on slow systems and
+ to ease debugging in case of issues.
