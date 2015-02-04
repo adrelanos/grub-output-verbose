@@ -1,0 +1,47 @@
+commit 9c63ba5fb497eb3ab453d86f3e0cd42971843f5c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Feb 4 00:40:37 2015 +0000
+
+    updated makefile generic to version 1.3
+
+commit 47b595c5f7e86f687644ef888c5f6189d5c1c538
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Feb 3 23:58:42 2015 +0000
+
+    Added creation of upstream changelog to debian/rules
+
+commit ddae9658ed043e328a91823dce8510076dafdfae
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 7 19:42:49 2015 +0000
+
+    updated readme
+
+commit 4647389ba3bcdbd09126d9dfd4900d62ab16a24b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 7 19:33:42 2015 +0000
+
+    bumped compat from 8 to 9
+
+commit 5f18f9e3991650de3aa99291eec350c0a6b00a89
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 15 00:00:01 2014 +0000
+
+    fix
+
+commit 9dc0c7ae42e4cd42bd53672c7aa17d8a7f957c66
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 13 13:55:26 2014 +0000
+
+    fix
+
+commit ea2bb6671f250c1cdd8ab9f258e7cca6e8c9b262
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Dec 7 05:16:08 2014 +0000
+
+    initial implementation
+
+commit 923a8738a5f7b1a93abdeada0286e96f5f0d7dd7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Dec 7 04:32:24 2014 +0000
+
+    initial implementation
