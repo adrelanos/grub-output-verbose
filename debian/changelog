@@ -1,3 +1,9 @@
+grub-output-verbose (3:0.7-1) unstable; urgency=low
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Wed, 03 Jun 2015 14:59:43 +0000
+
 grub-output-verbose (3:0.6-1) unstable; urgency=low
 
   * New upstream version (local package).
