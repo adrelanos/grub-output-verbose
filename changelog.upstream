@@ -1,3 +1,21 @@
+commit 9443db0eebeab541e9c6cd821f91066f286178f1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 05:50:59 2019 -0400
+
+    port to debian buster
+
+commit a31e48db0c76a251395451ed8987195323c76794
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 3 18:05:50 2019 -0400
+
+    readme
+
+commit b7246975c98126aed47561263487dcbae7401f10
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 29 09:55:11 2019 +0000
+
+    bumped changelog version
+
 commit 5c12e87d62482f8473347b9bff635c32e78c4590
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 29 09:03:16 2019 +0000
